@@ -6,6 +6,7 @@ using UnityEngine.Events;
 public class Signaling : MonoBehaviour
 {
     [SerializeField] private UnityEvent _reached;
+    
     private VolumeChanger _volumeChanger;
 
     private void Awake()
