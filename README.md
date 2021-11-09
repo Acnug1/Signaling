@@ -3,7 +3,7 @@
 <br/>
 <br/>
 ##### Видео на youtube с записью геймплея проекта: 
-[![](https://youtu.be/f0U5TpktOzU/0.jpg)](https://youtu.be/f0U5TpktOzU "")
+[![](https://img.youtube.com/vi/f0U5TpktOzU/0.jpg)](https://youtu.be/f0U5TpktOzU "")
 <br/>
 <br/>
 ##### Краткое описание проекта:
