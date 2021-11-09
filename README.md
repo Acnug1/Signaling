@@ -2,8 +2,10 @@
 # Signaling
 <br/>
 <br/>
+##### Ссылка на яндекс диск с билдом проекта (версия Unity: 2020.1.0f1):
+<https://disk.yandex.ru/d/5QjSlrZX4b-0SQ>
 ##### Видео на youtube с записью геймплея проекта: 
-[![](https://img.youtube.com/vi/f0U5TpktOzU/0.jpg)](https://youtu.be/f0U5TpktOzU "")
+[![Watch the video](https://img.youtube.com/vi/f0U5TpktOzU/0.jpg)](https://youtu.be/f0U5TpktOzU)
 <br/>
 <br/>
 ##### Краткое описание проекта:
