@@ -8,11 +8,14 @@ public class VolumeChanger : MonoBehaviour
 {
     [SerializeField] private AudioSource _audio;
 
+    private Coroutine _signaling;
+
     public void StartVolumeChanger(bool onEnable)
     {
-        StopAllCoroutines();
+        if (_signaling != null)
+            StopCoroutine(_signaling);
 
-        StartCoroutine(ChangeIn(onEnable));
+        _signaling = StartCoroutine(ChangeIn(onEnable));
     }
 
     private IEnumerator ChangeIn(bool onEnabled)
